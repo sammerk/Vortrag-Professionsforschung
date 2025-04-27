@@ -241,9 +241,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 :::
 
 ::: {.column width='60%'}
-<center>
-![Hassediagramm nach Falmagne [-@falmagne1990]](img/hasse.png){width=60%}
-</center>
+![Hassediagramm nach Falmagne [-@falmagne1990]](img/hasse.png){width="60%" fig-align="center"}
 :::
 
 ::::
