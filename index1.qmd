@@ -17,16 +17,22 @@ brand: _template/_brand.yml
 lang: de
 
 nocite: |
-  @bez2025individuelle, @black1998, @beckmann1978, @timmerhaus2001
+  @misanchuk1978, @Deno1985, @black1998, @dunn2009, @Klauer2011
 bibliography: references.bib
 ---
+
+## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center}
+
+> Ich möchte am Beispiel »Formatives Assessment« illustrieren, wie Fachdidaktiken und Bildungswissenschaften sich bei der Professionalisierung durch Lehrerbildung gegenseitig bedingen.
+
+![](img/ziel.png){width=50% fig-align="center"}
 
 ## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center}
 
 :::: {.columns}
 
 ::: {.column width='60%'}
-> Ich möchte am **Beispiel Formatives Assessment** illustrieren, wie Fachdidaktiken und Bildungswissenschaften die Entwicklung von Professionalität durch Lehrpersonenbildung **gleichermaßen bedingen**.
+> Ich möchte am **Beispiel »Formatives Assessment«** illustrieren, wie Fachdidaktiken und Bildungswissenschaften sich bei der Professionalisierung durch Lehrerbildung **gegenseitig bedingen**.
 :::
 
 ::: {.column width='40%'}
@@ -64,10 +70,25 @@ Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 
 
 ## <!-- Formatives Assessment--> {.smaller auto-animate="true"}
+
 ::: {style="margin-top: 0px;font-size: 2.3em; font-weight: bold; color:#267326; margin-left: 0px;"}
 Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 :::
 
+
+![](img/timeline_duenn_cronbachblack.png){fig-align="center"}
+
+**Definitionen**
+
+* *»Evaluation, used to improve the course while it is still fluid«* [@cronbach1964]
+* *»\[...\] assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998].
+
+
+::: {.footer}
+**{{< iconify simple-icons:futurelearn >}}** [- {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}} - {{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
+:::
+
+## Formatives Assessment {{< iconify simple-icons:futurelearn >}} {.smaller}
 **Definitionen**
 
 * *»Evaluation, used to improve the course while it is still fluid«* [@cronbach1964]
@@ -83,6 +104,29 @@ Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 ::: {style="height:300px" data-wordart-src="https://cdn.wordart.com/json/7xj8vm7szv1e"}
 :::
 
+
+::: {.footer}
+**{{< iconify simple-icons:futurelearn >}}** [- {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}} - {{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
+:::
+
+
+
+
+
+## Formatives Assessment {{< iconify simple-icons:futurelearn >}} {.smaller}
+
+<center>
+
+![](img/timeline_misdeno.png){fig.align="center"}
+
+```{=html}
+<script src="https://cdn.wordart.com/wordart.min.js" async defer></script>
+```
+
+::: {style="height:300px" data-wordart-src="https://cdn.wordart.com/json/7xj8vm7szv1e"}
+:::
+
+</center>
 
 ::: {.footer}
 **{{< iconify simple-icons:futurelearn >}}** [- {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}} - {{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
@@ -218,17 +262,19 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 ::: {style="margin-top: 0px;font-size: 2.3em; font-weight: bold; color:#267326; margin-left: 0px;"}
 Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 :::
+. . .
 
+**Gewisse bildungswiss. Aspekte sind notwendige Bedingung für »professionelles FA«**
 
-![](img/notwBed.png){width="53%" fig-align="center"}
-
-> Bildungswissenschaftliche Aspekte können notwendige Bedingung für »professionelles Formatives Assessment« darstellen [@barnes2014]
+![](img/notwBed.png){group="gallery1"}
 
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
 :::
 
 ## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+**Gewisse fachdidaktische Aspekte sind notwendige Bedingung für »professionelles FA«**
+
 :::: {.columns}
 
 ::: {.column width='40%'}
@@ -238,100 +284,60 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 2) $58,7 \cdot 0,94 = ?$
 3) $\frac{1}{2} \cdot \frac{5}{6} = ?$
 4) Gwendolyn ist $\frac{3}{4}$ so alt wie Rebecca. Rebecca ist $\frac{2}{3}$ so alt wie Edwin. Edwin ist $20$ Jahre alt. Wie alt ist Gwendolyn?
+
+
 :::
 
 ::: {.column width='60%'}
 <center>
-![Hassediagramm nach Falmagne [-@falmagne1990]](img/hasse.png){width=60%}
+![Hassediagramm der Aufgaben [@falmagne1990]](img/hasse.png){width=60%}
 </center>
 :::
 
 ::::
 
-
-> Fachdidaktische Aspekte können eine notwendige Bedingung für »professionelles Formatives Assessment« darstellen [@heitink2016].
-
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
 :::
 
 
 ## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+**Bildungswiss. Aspekte können induktiv entstehen**
 
 ::: {.r-stack}
-![](img/Induktion3 (5).png){.fragment width="47%" fig-align="center"}
+![](img/Induktion3 (5).png){.fragment width="780"}
 
-![](img/Induktion3 (7).png){.fragment width="47%" fig-align="center"}
+![](img/Induktion3 (7).png){.fragment width="780"}
 
-![](img/Induktion3 (8).png){.fragment width="47%" fig-align="center"}
+![](img/Induktion3 (8).png){.fragment width="780"}
 
-![](img/Induktion3 (9).png){.fragment width="47%" fig-align="center"}
+![](img/Induktion3 (9).png){.fragment width="780"}
 
-![](img/Induktion3 (6).png){.fragment width="47%" fig-align="center"}
+![](img/Induktion3 (6).png){.fragment width="780"}
 
-![](img/Induktion3 (10).png){.fragment width="47%" fig-align="center"}
+![](img/Induktion3 (10).png){.fragment width="780"}
 :::
 
-. . .
 
-> Bildungswissenschaftliche Aspekte können induktiv entstehen [@terhart2013; @bayrhuber2017]
 
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
 :::
 
 ## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+**Fachdidaktische Aspekte können deduktiv entstehen**
+
 ::: {.r-stack}
-![](img/deduktion.png){.fragment width="50%" fig-align="center"}
+![](img/deduktion.png){.fragment width="720"}
 
-![](img/deduktion (1).png){.fragment width="50%" fig-align="center"}
+![](img/deduktion (1).png){.fragment width="720"}
 
-![](img/deduktion (2).png){.fragment width="50%" fig-align="center"}
+![](img/deduktion (2).png){.fragment width="720"}
 
-![](img/deduktion (3).png){.fragment width="50%" fig-align="center"}
+![](img/deduktion (3).png){.fragment width="720"}
 :::
 
-> Fachdidaktische Aspekte können deduktiv entstehen [@kohnlein1977; @nachtigall1979]
 
-::: {.footer}
-[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
-:::
-
-## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
-#### Allgemeine Verhältnisbestimmungen
-* In der Vergangenheit waren wechselseitige Abgrenzungs- und Vereinnahmungsversuche erkennbar [@binder2022a]
-* Ältere Verhältnisbestimmungen sehen Fachdidaktiken eher als »Integrationswissenschaften« [@kohnlein1977; @nachtigall1979]
-* Jüngere verorten sich teilweise im interdisziplinären Feld der empirischen Bildungsforschung [@leuders2015]
-* Vielfalt der Verhältnisbestimmungen scheint ungebrochen:
-
-:::: {.columns}
-
-::: {.column width='16%'}
-![](img/verhaeltnis1-e.png){group="my-gallery"}
-:::
-
-::: {.column width='16%'}
-![](img/verhaeltnis2-e.png){group="my-gallery"}
-:::
-
-::: {.column width='16%'}
-![](img/verhaeltnis3-e.png){group="my-gallery"}
-:::
-
-::: {.column width='16%'}
-![](img/verhaeltnis4-e.png){group="my-gallery"}
-:::
-
-::: {.column width='16%'}
-![](img/verhaeltnis5-e.png){group="my-gallery"}
-:::
-
-::: {.column width='16%'}
-![](img/verhaeltnis6-e.png){group="my-gallery"}
-:::
-::::
-
-<center>Vielfalt der Verhältnisbestimmungen nach Cramer [-@cramer2019b]</center>
 
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
@@ -345,12 +351,12 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 ::: {.footer}
 :::
 
-## <!-- Ausgewählte Projekte & Befunde--> {.smaller auto-animate="true"  .center}
+## <!-- Ausgewählte Projekte & Befunde--> {.smaller auto-animate="true" .scrollable}
 ::: {style="margin-top: 0px;font-size: 2.3em; font-weight: bold; color:#267326; margin-left: 0px;"}
 Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 :::
 
-#### Projekt: **Vom Testergebnis zur pädagogischen Maßnahme** ![](img/logo_mindsteps.png){width=12% style="margin: -6px 0px!important;"}
+#### **Vom Testergebnis zur pädagogischen Maßnahme** 
 * In Kooperation mit Martin Tomasik (Zürich) und Sarah Bez (Karlsruhe), gefördert durch die Biaesch Stiftung 
 * Explorativer Fokus auf Rezeptions- und Sensemakingprozesse von Heavy-Usern des digitalen formativen Assessmentsystems mindsteps
 * Zentraler Befund: [»Fachdidaktische Fehleranalyse« nimmt großen Raum ein und scheint wichtige Voraussetzung für die Konstruktion praktischer Implikationen {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/biaesch_ergebnis.png){.lightbox} 
@@ -362,13 +368,25 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
 :::  
+  
+    
+## Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}} {.smaller}
+#### Projekt: **ccPENDL** 
+* In Kooperation mit Karina Karst (Mannheim) und Sarah Bez (Kalrsruhe), gefördert durch die Robert Bosch Stiftung 
+* Service Learning Projekt in dem Lehramtsstudierende für diagnosegeleite Leseflüssigkeitsförderung professionalisiert werden
+* Zentraler Befund: [Effekte auf Schülerebene in Quasiexperiment {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/biaesch_ergebnis.png){.lightbox} 
+* Anschlussfragestellung: 
 
+    *Kann Interesse und Selbstwirksamkeit bzgl. diagnosegleiteter Leseförderung durch individualisierte Motivationsinterventionen gesteigert werden?*
 
-## Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}} {.smaller .center}
-#### Teilprojekt: **Aufgabendashboards** im Promotionskolleg [![](img/Logo_AQUAd.png){width=12% style="margin: -6px 0px!important;"}](img/Sunburst_AQUA.png){.lightbox}
+::: {.footer}
+[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
+:::  
+
+## Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}} {.smaller}
+#### Teilprojekt: **Aufgabendashboards** (Promotionskolleg AQUA-d)
 * In Kooperation mit Anouschka van Leeuwen (Utrecht) & Thorsten Bohl (Tübingen), gefördert durch das MWK Baden-Württemberg
-* Experimentelle Variation von Rückmeldeformaten formativer Assessments 
-* Zentraler Befund: [Die grafische Darstellung beeinflusst die eingenommene Bezugsnorm {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/Ergebnisse_aquad.png){.lightbox} 
+* Zentraler Befund: [Die grafische Darstellung beeinflusst die eingenommene Bezugsnorm{{< iconify fa6-solid:arrow-up-right-from-square >}}](img/biaesch_ergebnis.png){.lightbox} 
 * Anschlussfragestellung:
 
     *Wie sollten sozial normierte mehrdimensionale formative Assessments kommuniziert werden?*
@@ -378,32 +396,41 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 :::  
 
 
-## Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}} {.smaller .center}
-#### Projekt: ![](img/logo_ccPENDL.png){width=12% style="margin: -6px 0px!important;"}
-* In Kooperation mit Karina Karst (Mannheim), Nadine Anskeit und Sarah Bez (Karlsruhe), gefördert durch die Robert Bosch Stiftung 
-* Service Learning Projekt in dem Lehramtsstudierende für diagnosegeleite Leseflüssigkeitsförderung professionalisiert werden
-* Zentraler Befund: [Effekte auf Schülerebene in Quasiexperiment {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/Ergebnisse_ccPENDL.png){.lightbox} 
-* Anschlussfragestellung: 
+## {.center}
+<center>
+[{{< iconify simple-icons:futurelearn >}}]{style="color: #237326; font-size:2em;"} [- {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}} - {{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4; font-size:2em;"}
 
-    *Kann Interesse und Selbstwirksamkeit bzgl. diagnosegleiteter Leseförderung durch individualisierte Motivationsinterventionen gesteigert werden?*
-
-::: {.footer}
-[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
-:::  
-
-
-
-## {.center data-visibility="uncounted"}
-![](img/lupe.png){fig-align="center" width="60%"}
-
+[{{< iconify fa6-solid handshake >}}]{style="color: #b4b4b4; font-size:3em;"}
+</center>
 ::: footer
 :::
 
 ## {.center data-visibility="uncounted"}
-![](img/lupe.png){fig-align="center" width="60%"}
+<center>
+[{{< iconify simple-icons:futurelearn >}} - ]{style="color: #b4b4b4; font-size:2em;"} [{{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #237326; font-size:2em;"} [- {{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4; font-size:2em;"}
 
+[{{< iconify fa6-solid handshake >}}]{style="color: #b4b4b4; font-size:3em;"}
+</center>
 ::: footer
-[**{{< iconify fa6-solid handshake >}}**]{style="size: 3em"}
+:::
+
+## {.center data-visibility="uncounted"}
+<center>
+[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4; font-size:2em;"} [- {{< iconify fa6-solid microscope >}}]{style="color: #237326; font-size:2em;"}
+
+[{{< iconify fa6-solid handshake >}}]{style="color: #b4b4b4; font-size:3em;"}
+</center>
+::: footer
+:::
+
+
+## {.center data-visibility="uncounted"}
+<center>
+[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}} - {{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4; font-size:2em;"}
+
+[{{< iconify fa6-solid handshake >}}]{style="color: #237326; font-size:3em;"}
+</center>
+::: footer
 :::
 
 

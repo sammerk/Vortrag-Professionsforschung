@@ -23,6 +23,12 @@ bibliography: references.bib
 
 ## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center}
 
+> Ich möchte am **Beispiel »Formatives Assessment«** illustrieren, wie Fachdidaktiken und Bildungswissenschaften sich bei der Entwicklung von Professionalität durch Lehrpersonenbildung **gegenseitig bedingen**.
+
+![](img/ziel.png){width=50% fig-align="center"}
+
+## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center}
+
 :::: {.columns}
 
 ::: {.column width='60%'}
@@ -248,6 +254,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 
 ::::
 
+. . .
 
 > Fachdidaktische Aspekte können eine notwendige Bedingung für »professionelles Formatives Assessment« darstellen [@heitink2016].
 
@@ -365,7 +372,7 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 
 
 ## Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}} {.smaller .center}
-#### Teilprojekt: **Aufgabendashboards** im Promotionskolleg [![](img/Logo_AQUAd.png){width=12% style="margin: -6px 0px!important;"}](img/Sunburst_AQUA.png){.lightbox}
+#### Teilprojekt: **Aufgabendashboards** - Promotionskolleg [![](img/Logo_AQUAd.png){width=12% style="margin: -6px 0px!important;"}](img/Sunburst_AQUA.png){.lightbox}
 * In Kooperation mit Anouschka van Leeuwen (Utrecht) & Thorsten Bohl (Tübingen), gefördert durch das MWK Baden-Württemberg
 * Experimentelle Variation von Rückmeldeformaten formativer Assessments 
 * Zentraler Befund: [Die grafische Darstellung beeinflusst die eingenommene Bezugsnorm {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/Ergebnisse_aquad.png){.lightbox} 

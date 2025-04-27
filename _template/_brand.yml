@@ -35,8 +35,9 @@ defaults:
         highlight-style: github-dark
         theme: _template/phka.scss
         tbl-cap-location: bottom
-        lightbox: true
-        embed-resources: false
+        lightbox: auto
+        auto-stretch: false
+        embed-resources: true
         picture: img/KA.jpeg
         logo: img/ph-logo.svg
         footer: Samuel Merk | Pädagogische Hochschule Karlsruhe
