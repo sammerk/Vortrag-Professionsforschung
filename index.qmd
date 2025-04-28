@@ -241,7 +241,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 :::
 
 ::: {.column width='45%'}
-![Hassediagramm dieser Aufgaben nach Falmagne [-@falmagne1990]](img/hasse.png){width="70%"}
+![](img/hasse.png){width="70%"}
 :::
 
 ::::
