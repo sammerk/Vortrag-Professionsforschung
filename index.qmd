@@ -241,11 +241,11 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 :::
 
 ::: {.column width='45%'}
-![](img/hasse.png){width="70%"}
+![Hassediagramm dieser Aufgaben nach Falmagne [-@falmagne1990]](img/hasse.png){width="70%"}
 :::
-
 ::::
 
+![Hassediagramm dieser Aufgaben nach Falmagne [-@falmagne1990]](img/hasse.png){width="7%"}
 
 > Fachdidaktische Aspekte können eine notwendige Bedingung für »professionelles Formatives Assessment« darstellen [@heitink2016].
 
