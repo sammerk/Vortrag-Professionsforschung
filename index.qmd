@@ -17,23 +17,15 @@ brand: _template/_brand.yml
 lang: de
 
 nocite: |
-  @bez2025individuelle, @black1998, @beckmann1978, @timmerhaus2001
+  @bez2025individuelle, @black1998, @beckmann1978, @timmerhaus2001, @lunowa2025grafische, @bez2025, @bez_inprep
 bibliography: references.bib
 ---
 
-## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center}
+## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center .smaller}
 
-:::: {.columns}
+> Ich möchte am **Beispiel des Formativen Assessments** illustrieren, wie sich Fachdidaktiken und Bildungswissenschaften bei der Entwicklung von Professionalität durch Lehrpersonenbildung **gleichermaßen bedingen**.
 
-::: {.column width='60%'}
-> Ich möchte am **Beispiel Formatives Assessment** illustrieren, wie sich Fachdidaktiken und Bildungswissenschaften bei der Entwicklung von Professionalität durch Lehrpersonenbildung **gleichermaßen bedingen**.
-:::
-
-::: {.column width='40%'}
-![](img/ziel (2).png){fig-align="center"}
-:::
-
-::::
+![](img/ziel.png){width=70% fig-align="center"}
 
 
 ## Überblick {.center}
@@ -70,8 +62,8 @@ Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 
 **Definitionen**
 
-* *»Evaluation, used to improve the course while it is still fluid«* [@cronbach1964]
-* *»\[...\] assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998].
+* *»Evaluation, used to improve the course while it is still fluid«* [@cronbach1964, S. 236]
+* *»\[...\] assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998, S. 53].
 
 . . .
 
@@ -93,9 +85,9 @@ Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 
 ::::: columns
 ::: {.column width="50%"}
--   Ältere Metaanalysen [@fuchs1986; @black1998] kommen zu sehr positiven Ergebnissen $(.4<d<.7)$
--   Jüngere Metaanalysen sind immer noch positiv aber konservativer [vgl. @dunn2009; @kingston2011; @mclaughlin2017]
--   Als Moderatoren werden insbesondere das Fach und die Treatment-Art vorgeschlagen [@kingston2011]
+-   Ältere Metaanalysen [@fuchs1986; @black1998] finden vergleichsweise große Effektstärken $(.4<d<.7)$
+-   Jüngere Metaanalysen sind immer noch positiv aber konservativer [vgl. @dunn2009; @kingston2011; @mclaughlin2017; @xuan2022]
+-   Als Moderatoren werden insbesondere das Fach, die digitale Umsetzung und begleitende Fortbildungen vorgeschlagen [@kingston2011]
 :::
 
 ::: {.column width="50%"}
@@ -165,20 +157,20 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 :::
 
 :::::: columns
-::: {.column width="33%"}
+::: {.column width="40%"}
 
-#### Kompetenztheo. Ansatz 
-* In der Tradition Expertiseansatzes der Lehrpersonenprofessionalität [@bromme1992]
-* Topologie von Wissen, Überzeugungen, Werthaltungen, mot. Orientierungen selbstregulativen Fäh. [@baumert2006]
+#### Kompetenztheoretischer Ansatz 
+* In der Tradition des Expertiseansatzes der Lehrpersonenprofessionalität [@bromme1992]
+* Topologie von Wissen, Überzeugungen, Werthaltungen, motivationalen Orientierungen & selbstregulativen Fähigkeiten [@baumert2006]
 :::
 
-::: {.column width="33%"}
+::: {.column width="30%"}
 #### Strukturtheo. Ansatz
 * Soziologischer Fokus auf Rollenerwartungen und soziale Gefüge [@helsper2014]
 * Insbesondere sog. »Antinomien« wurden stark rezipiert [@fabel-lamla2018]
 :::
 
-::: {.column width="33%"}
+::: {.column width="30%"}
 #### Berufsbiografischer Ansatz
 * In Tradition erziehungswissenschaftlicher Biografieforschung [@terhart1992]
 * Stark intraindividuelle Perspektive [@fabel-lamla2018]
@@ -208,7 +200,7 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 
 ## <!-- Fachdidaktik & Bildungswissenschaften --> {auto-animate="true"}
 ::: {style="margin-top: 300px; font-size: 1.8em; font-weight: bold; color:#267326; margin-left: 110px;"}
-[Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}]{.imp}
+[[Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .7em;"}]{.imp}
 :::
 
 ::: {.footer}
@@ -216,7 +208,7 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 
 ## <!-- Fachdidaktik & Bildungswiss.--> {auto-animate="true" .smaller}
 ::: {style="margin-top: 0px;font-size: 2.3em; font-weight: bold; color:#267326; margin-left: 0px;"}
-Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
+[Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"}
 :::
 
 
@@ -228,7 +220,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
 :::
 
-## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
 :::: {.columns}
 
 ::: {.column width='50%'}
@@ -253,7 +245,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 :::
 
 
-## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
 
 ::: {.r-stack}
 ![](img/Induktion3 (5).png){.fragment width="47%" fig-align="center"}
@@ -269,7 +261,6 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 ![](img/Induktion3 (10).png){.fragment width="47%" fig-align="center"}
 :::
 
-. . .
 
 > Bildungswissenschaftliche Aspekte können induktiv entstehen [@terhart2013; @bayrhuber2017]
 
@@ -277,7 +268,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
 :::
 
-## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
 ::: {.r-stack}
 ![](img/deduktion.png){.fragment width="50%" fig-align="center"}
 
@@ -294,7 +285,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
 :::
 
-## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
+## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
 #### Allgemeine Verhältnisbestimmungen
 * In der Vergangenheit waren wechselseitige Abgrenzungs- und Vereinnahmungsversuche erkennbar [@binder2022a]
 * Ältere Verhältnisbestimmungen sehen Fachdidaktiken eher als »Integrationswissenschaften« [@kohnlein1977; @nachtigall1979]
@@ -342,7 +333,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 ::: {.footer}
 :::
 
-## <!-- Ausgewählte Projekte & Befunde--> {.smaller auto-animate="true"  .center}
+## <!-- Ausgewählte Projekte & Befunde--> {.smaller auto-animate="true"}
 ::: {style="margin-top: 0px;font-size: 2.3em; font-weight: bold; color:#267326; margin-left: 0px;"}
 Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 :::
@@ -377,7 +368,7 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 ## Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}} {.smaller .center}
 #### Projekt: ![](img/logo_ccPENDL.png){width=12% style="margin: -6px 0px!important;"}
 * In Kooperation mit Karina Karst (Mannheim), Nadine Anskeit und Sarah Bez (Karlsruhe), gefördert durch die Robert Bosch Stiftung 
-* Service Learning Projekt in dem Lehramtsstudierende für diagnosegeleite Leseflüssigkeitsförderung professionalisiert werden
+* Service Learning Projekt, in dem Lehramtsstudierende für diagnosegeleitete Leseflüssigkeitsförderung professionalisiert werden
 * Zentraler Befund: [Effekte auf Schülerebene in Quasiexperiment {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/Ergebnisse_ccPENDL.png){.lightbox} 
 * Anschlussfragestellung: 
 
@@ -390,7 +381,7 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 
 
 ## {.center data-visibility="uncounted"}
-![](img/lupe.png){fig-align="center" width="60%"}
+![](img/lupe.png){fig-align="center" width="70%"}
 
 ::: footer
 :::
