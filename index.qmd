@@ -23,7 +23,7 @@ bibliography: references.bib
 
 ## Ziel des Vortrags {{< iconify fa-solid:bullseye >}}{.center .smaller}
 
-> Ich möchte am **Beispiel des Formativen Assessments** illustrieren, wie sich Fachdidaktiken und Bildungswissenschaften bei der Entwicklung von Professionalität durch Lehrpersonenbildung **gleichermaßen bedingen**.
+> Ich möchte am **Beispiel des Formativen Assessments** illustrieren, wie sich Fachdidaktiken und Bildungswissenschaften bei der Entwicklung von Professionalität durch Lehrpersonenbildung **gegenseitig bedingen**.
 
 ![](img/ziel.png){width=70% fig-align="center"}
 
