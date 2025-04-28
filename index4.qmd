@@ -62,8 +62,8 @@ Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 
 **Definitionen**
 
-* *»\[...\] used to improve the course while it is still fluid«* [@cronbach1964, S. 236]
-* *» assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998, S. 53].
+* *»Evaluation, used to improve the course while it is still fluid«* [@cronbach1964, S. 236]
+* *»\[...\] assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998, S. 53].
 
 . . .
 
@@ -160,7 +160,7 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 ::: {.column width="40%"}
 
 #### Kompetenztheoretischer Ansatz 
-* In der Tradition des Expertiseparadigmas der Unterrichtsforschung [@bromme1992]
+* In der Tradition des Expertiseansatzes der Lehrpersonenprofessionalität [@bromme1992]
 * Topologie von Wissen, Überzeugungen, Werthaltungen, motivationalen Orientierungen & selbstregulativen Fähigkeiten [@baumert2006]
 :::
 
@@ -245,6 +245,45 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 :::
 
 
+## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
+
+::: {.r-stack}
+![](img/Induktion3 (5).png){.fragment width="47%" fig-align="center"}
+
+![](img/Induktion3 (7).png){.fragment width="47%" fig-align="center"}
+
+![](img/Induktion3 (8).png){.fragment width="47%" fig-align="center"}
+
+![](img/Induktion3 (9).png){.fragment width="47%" fig-align="center"}
+
+![](img/Induktion3 (6).png){.fragment width="47%" fig-align="center"}
+
+![](img/Induktion3 (10).png){.fragment width="47%" fig-align="center"}
+:::
+
+
+> Bildungswissenschaftliche Aspekte können induktiv entstehen [@terhart2013; @bayrhuber2017]
+
+::: {.footer}
+[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
+:::
+
+## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
+::: {.r-stack}
+![](img/deduktion.png){.fragment width="50%" fig-align="center"}
+
+![](img/deduktion (1).png){.fragment width="50%" fig-align="center"}
+
+![](img/deduktion (2).png){.fragment width="50%" fig-align="center"}
+
+![](img/deduktion (3).png){.fragment width="50%" fig-align="center"}
+:::
+
+> Fachdidaktische Aspekte können deduktiv entstehen [@kohnlein1977; @nachtigall1979]
+
+::: {.footer}
+[{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid repeat >}}** - [{{< iconify fa6-solid microscope >}}]{style="color: #b4b4b4;"}
+:::
 
 ## [Fachdidaktik & Bildungswissenschaften {{< iconify fa6-solid repeat >}}]{style="font-size: .9em;"} {.smaller}
 #### Allgemeine Verhältnisbestimmungen
@@ -303,7 +342,9 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 * In Kooperation mit Martin Tomasik (Zürich) und Sarah Bez (Karlsruhe), gefördert durch die Biaesch Stiftung 
 * Explorativer Fokus auf Rezeptions- und Sensemakingprozesse von Heavy-Usern des digitalen formativen Assessmentsystems mindsteps
 * Zentraler Befund: [»Fachdidaktische Fehleranalyse« nimmt großen Raum ein und scheint wichtige Voraussetzung für die Konstruktion praktischer Implikationen {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/biaesch_ergebnis.png){.lightbox} 
+* Anschlussfragestellung:  
 
+    *Wie kann diese »Fachdidaktische Fehleranalyse« [unterstützt](img/heatmaps.png){.lightbox} werden?*
   
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
@@ -315,7 +356,9 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 * In Kooperation mit Anouschka van Leeuwen (Utrecht) & Thorsten Bohl (Tübingen), gefördert durch das MWK Baden-Württemberg
 * Experimentelle Variation von Rückmeldeformaten formativer Assessments 
 * Zentraler Befund: [Die grafische Darstellung beeinflusst die eingenommene Bezugsnorm {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/Ergebnisse_aquad.png){.lightbox} 
+* Anschlussfragestellung:
 
+    *Wie sollten sozial normierte mehrdimensionale formative Assessments kommuniziert werden?*
     
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
@@ -327,7 +370,9 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 * In Kooperation mit Karina Karst (Mannheim), Nadine Anskeit und Sarah Bez (Karlsruhe), gefördert durch die Robert Bosch Stiftung 
 * Service Learning Projekt, in dem Lehramtsstudierende für diagnosegeleitete Leseflüssigkeitsförderung professionalisiert werden
 * Zentraler Befund: [Effekte auf Schülerebene in Quasiexperiment {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/Ergebnisse_ccPENDL.png){.lightbox} 
+* Anschlussfragestellung: 
 
+    *Kann Interesse und Selbstwirksamkeit bzgl. diagnosegleiteter Leseförderung durch individualisierte Motivationsinterventionen gesteigert werden?*
 
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
