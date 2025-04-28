@@ -224,7 +224,7 @@ Professionalität {{< iconify fa-solid:chalkboard-teacher >}}
 :::: {.columns}
 
 ::: {.column width='50%'}
-*Welche Aufgabe in Klasse 7 für FA?*
+*Welche Aufgabe in Klasse 6 für FA?*
 
 1) $378 \cdot 605 = ?$
 2) $58,7 \cdot 0,94 = ?$
