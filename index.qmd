@@ -7,7 +7,7 @@ date: 04/29/2025
 date-format: long
 
 logo: img/ph-logo.svg
-footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter bit.ly/merk123
+footer: Folien {{< iconify streamline:creative-commons-solid >}} {{< iconify fa6-brands:creative-commons-by >}} unter bit.ly/merk314
 
 format: 
   revealjs:
@@ -26,7 +26,7 @@ bibliography: references.bib
 :::: {.columns}
 
 ::: {.column width='60%'}
-> Ich möchte am **Beispiel Formatives Assessment** illustrieren, wie Fachdidaktiken und Bildungswissenschaften die Entwicklung von Professionalität durch Lehrpersonenbildung **gleichermaßen bedingen**.
+> Ich möchte am **Beispiel Formatives Assessment** illustrieren, wie sich Fachdidaktiken und Bildungswissenschaften bei der Entwicklung von Professionalität durch Lehrpersonenbildung **gleichermaßen bedingen**.
 :::
 
 ::: {.column width='40%'}
@@ -231,7 +231,7 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 ## Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}} {.smaller}
 :::: {.columns}
 
-::: {.column width='40%'}
+::: {.column width='50%'}
 *Welche Aufgabe in Klasse 7 für FA?*
 
 1) $378 \cdot 605 = ?$
@@ -240,8 +240,8 @@ Fachdidaktik & Bildungswiss. {{< iconify fa6-solid repeat >}}
 4) Gwendolyn ist $\frac{3}{4}$ so alt wie Rebecca. Rebecca ist $\frac{2}{3}$ so alt wie Edwin. Edwin ist $20$ Jahre alt. Wie alt ist Gwendolyn?
 :::
 
-::: {.column width='60%'}
-![Hassediagramm nach Falmagne [-@falmagne1990]](img/hasse.png){width="60%" fig-align="center"}
+::: {.column width='45%'}
+![Hassediagramm dieser Aufgaben nach Falmagne [-@falmagne1990]](img/hasse.png){width="70%"}
 :::
 
 ::::
@@ -354,8 +354,7 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 * Zentraler Befund: [»Fachdidaktische Fehleranalyse« nimmt großen Raum ein und scheint wichtige Voraussetzung für die Konstruktion praktischer Implikationen {{< iconify fa6-solid:arrow-up-right-from-square >}}](img/biaesch_ergebnis.png){.lightbox} 
 * Anschlussfragestellung:  
 
-    *Wie kann diese »Fachdidaktische Fehleranalyse« unterstützt werden?*
-    
+    *Wie kann diese »Fachdidaktische Fehleranalyse« [unterstützt](img/heatmaps.png){.lightbox} werden?*
   
 ::: {.footer}
 [{{< iconify simple-icons:futurelearn >}} - {{< iconify fa-solid:chalkboard-teacher >}} - {{< iconify fa6-solid repeat >}}]{style="color: #b4b4b4;"} - **{{< iconify fa6-solid microscope >}}**
@@ -397,15 +396,10 @@ Ausgewählte Projekte & Befunde {{< iconify fa6-solid microscope >}}
 ::: footer
 :::
 
-## {.center data-visibility="uncounted"}
-![](img/lupe.png){fig-align="center" width="60%"}
-
-::: footer
-[**{{< iconify fa6-solid handshake >}}**]{style="size: 3em"}
-:::
 
 
-## Literatur
+
+## Literatur {.smaller}
 
 ::: footer
 :::
