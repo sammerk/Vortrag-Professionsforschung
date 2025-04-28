@@ -63,7 +63,7 @@ Formatives Assessment {{< iconify simple-icons:futurelearn >}}
 **Definitionen**
 
 * *»\[...\] used to improve the course while it is still fluid«* [@cronbach1964, S. 236]
-* *» assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998, S. 53].
+* *»\[...\] assessment is formative only when comparison of actual and reference levels yields information which is then used to alter the gap«* [@black1998, S. 53].
 
 . . .
 
